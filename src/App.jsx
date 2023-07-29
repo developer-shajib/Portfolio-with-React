@@ -2,7 +2,6 @@ import { useEffect, useState } from 'react';
 import './App.css';
 import useMediaQuery from './hooks/useMediaQuery.jsx';
 import Navbar from './pages/Navbar.jsx';
-import DotGroup from './pages/dotGroup.jsx';
 import { motion } from 'framer-motion';
 import Landing from './pages/Landing.jsx';
 import LineGradient from './components/LineGradient.jsx';
@@ -11,6 +10,7 @@ import Projects from './pages/Projects.jsx';
 import Testimonials from './pages/Testimonials.jsx';
 import Contact from './pages/Contact.jsx';
 import Footer from './pages/Footer.jsx';
+import DotGroup from './pages/dotGroup.jsx';
 
 function App() {
   const [selectedPage, setSelectedPage] = useState('home');
