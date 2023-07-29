@@ -10,7 +10,7 @@ import Projects from './pages/Projects.jsx';
 import Testimonials from './pages/Testimonials.jsx';
 import Contact from './pages/Contact.jsx';
 import Footer from './pages/Footer.jsx';
-import DotGroup from './pages/dotGroup.jsx';
+import DotGroup from './pages/DotGroup.jsx';
 
 function App() {
   const [selectedPage, setSelectedPage] = useState('home');
