@@ -1,6 +1,6 @@
 # Devshajib's Portfolio Website
 
-![Devshajib's Portfolio](https://link-to-your-image.png)
+![Devshajib's Portfolio](./assets/React-Portfolio.png)
 
 ## Description
 
