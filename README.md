@@ -45,7 +45,6 @@ Once the server is running, you can access the website by navigating to `http://
 
 The live demo of the website can be accessed at: [https://devshajib-portfolio.netlify.app](https://devshajib-portfolio.netlify.app)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_NETLIFY_SITE_ID_HERE/deploy-status)](https://app.netlify.com/sites/YOUR_NETLIFY_SITE_ID_HERE)
 
 ## License
 
