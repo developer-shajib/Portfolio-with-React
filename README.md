@@ -37,6 +37,7 @@ Once the server is running, you can access the website by navigating to `http://
 
 - React
 - ViteJS
+- Tailwind Css
 - Framer Motion (for animations)
 - React Hook Form (for form handling)
 - React Anchor Link Smooth Scroll (for smooth scrolling)
